@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="65"
+   height="65"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="rssIcon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.148715"
+     inkscape:cx="263.33773"
+     inkscape:cy="307.73517"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="g2"
+     transform="matrix(0.19497809,0,0,0.19497809,-12.428878,-12.358101)"
+     style="fill:#cccccc;fill-opacity:1">
+		<path
+   style="fill:#cccccc;fill-opacity:1"
+   d="M 296.208,159.16 C 234.445,97.397 152.266,63.382 64.81,63.382 v 64.348 c 70.268,0 136.288,27.321 185.898,76.931 49.609,49.61 76.931,115.63 76.931,185.898 h 64.348 C 391.986,303.103 357.971,220.923 296.208,159.16 Z"
+   id="path1-0" />
+
+		<path
+   style="fill:#cccccc;fill-opacity:1"
+   d="m 64.143,172.273 v 64.348 c 84.881,0 153.938,69.056 153.938,153.939 h 64.348 c 0,-120.364 -97.922,-218.287 -218.286,-218.287 z"
+   id="path2" />
+
+		<circle
+   style="fill:#cccccc;fill-opacity:1"
+   cx="109.833"
+   cy="346.26001"
+   r="46.088001"
+   id="circle2" />
+
+	</g>
+</svg>
